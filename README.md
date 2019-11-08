@@ -45,10 +45,6 @@ right click project->references->Extensions:
 
 * **Benjamin Jenney** Student at BMCC
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
 * Thank You to BMCC for providing the resources for such a fun opportunity
