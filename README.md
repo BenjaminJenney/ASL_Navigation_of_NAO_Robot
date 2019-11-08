@@ -4,7 +4,8 @@ Research project focused on remotely Navigating a NAO Robot using the Kinect V2
 
 ## Getting Started
 
-Simply Download and open the solution in VIsual Studio 2015. You will also need to be able to run the python script which controls the robot and acts a server socket that listens for commands from Discreet_Gestures_Basics_WPF. 
+Simply Download and open the solution in VIsual Studio 2015. You will also need to be able to run the python script which controls the robot and acts as a server socket that listens for commands from Discreet_Gestures_Basics_WPF. You must first run the server (main.py) before you can start streaming data from the Kinect.
+
 Currently the gesture database consists of Sit, Stand, Walk, Turn Left, Turn right.
 
 ### Prerequisites
