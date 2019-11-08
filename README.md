@@ -11,7 +11,7 @@ Currently the gesture database consists of Sit, Stand, Walk, Turn Left, Turn rig
 
 * Visual Studio 2015
 * Kinect for Windows SDK 2.0
-* .NET Framework 4.8
+* .NET Framework 4.5 (may work with later versions)
 * Python 2.7
 * Naoqi for Python (login required)
 * Nao Robot, or Choregraph
