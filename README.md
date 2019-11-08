@@ -52,4 +52,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Thank You to BMCC for providing the resources for such a fun opportunity
-* Thank You Professor Azhar for being such a great mentor
+* Thank You Professor Azhar for being a great mentor
